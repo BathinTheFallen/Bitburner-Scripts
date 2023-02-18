@@ -14,6 +14,11 @@ export async function main(ns) {
 			notscanned.shift()
 		}
 	};
+	
+	//Above courtesy of u/External-Dress-9947
+	
+	//Below courtesy of me, u/BathinHasFallen
+	
 	let ports0 = [];
 	let ports1 = [];
 	let ports2 = [];
